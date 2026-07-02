@@ -1179,7 +1179,7 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=2.765223in,y=2.234260in,,base]{\color{textcolor}{\fontfamily{\familydefault}\fontsize{12.000000}{14.400000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}Temperaturverlauf-1}}%
+\pgftext[x=2.765223in,y=2.234260in,,base]{\color{textcolor}{\fontfamily{\familydefault}\fontsize{12.000000}{14.400000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}Temperaturverlauf-1-Verdampfunswärme}}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \pgfsetbuttcap%
